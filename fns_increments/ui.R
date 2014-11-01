@@ -1,5 +1,5 @@
-# slider and histogram 
- 
+
+
  
 shinyUI(pageWithSidebar(
   headerPanel("Functions and Increments."),
